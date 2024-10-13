@@ -1,4 +1,4 @@
-![banner_white](https://github.com/user-attachments/assets/72274adf-b5ca-4ee7-8f5c-c37c9260779a)
+![image](https://github.com/user-attachments/assets/728e4724-160d-4b87-b69a-f9709d4cd7e6)
 
 # :building_construction: Bienvenue sur le chantier de Nation !
 

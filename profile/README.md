@@ -2,16 +2,16 @@
 
 # :building_construction: Bienvenue sur le chantier de Nation !
 
-Suivez ici l'avancement du premier serveur Discord francophone et **constitutionnel** de l'histoire ! Vous y retrouverez les différentes sources de nos sites web, bots et outils rattachés qui vous seront mis à disposition.
+Suivez ici l'avancement du premier serveur Discord francophone **et constitutionnel** de l'histoire ! Vous y retrouverez les différentes sources de nos sites web, bots et outils rattachés qui vous seront mis à disposition.
 
 ## :scroll: Liste des repos
 
 ### Bots
-- [Communauté](https://github.com/1nserv/communaute)
-- [Économie](https://github.com/1nserv/economie)
-- [Hôtel de Ville](https://github.com/1nserv/hdv.bot)
+- [Communauté](https://github.com/1nserv/people.bot) (privé)
+- [Économie](https://github.com/1nserv/economie) (local)
+- [Hôtel de Ville](https://github.com/1nserv/hdv.bot) (privé)
 - [Modération](https://github.com/1nserv/moderation) (privé)
-- [Serveur](https://github.com/1nserv/serveur.bot)
+- [Serveur](https://github.com/1nserv/server.bot) (privé)
 
 ### Sites
 - [Vitrine](https://github.com/okayhappex/nation-server)
@@ -19,7 +19,7 @@ Suivez ici l'avancement du premier serveur Discord francophone et **constitution
 
 ### Autres
 - [NSArchive](https://github.com/1nserv/1ns-archive)
-- [Nation DB](https://github.com/okayhappex/nation-db) (privé)
+- [Nation DB](https://github.com/okayhappex/nation-db)
 
 ## :busts_in_silhouette: Collaborer
 Les collaborations sont assez restreintes pour le moment. Contactez-nous par mail ou sur Discord pour avoir plus d'infos à ce sujet.

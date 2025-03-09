@@ -19,7 +19,7 @@ Suivez ici l'avancement du premier serveur Discord francophone **et constitution
 
 ### Autres
 - [NSArchive](https://github.com/1nserv/1ns-archive)
-- [Nation DB](https://github.com/okayhappex/nation-db)
+- [Nation DB](https://github.com/1nserv/nation-db)
 
 ## :busts_in_silhouette: Collaborer
 Les collaborations sont assez restreintes pour le moment. Contactez-nous par mail ou sur Discord pour avoir plus d'infos à ce sujet.

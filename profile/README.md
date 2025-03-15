@@ -26,4 +26,5 @@ Les collaborations sont assez restreintes pour le moment. Contactez-nous par mai
 
 ## :speaking_head: Nous contacter
 - Par mail: 1nationserv@proton.me
-- Sur discord: @nationserv
+- Sur Discord: @nationserv
+- Sur Twitter: @discordnation
